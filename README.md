@@ -1,12 +1,12 @@
 # Prime-Batch-Apna-College-
-This repository contains my **AI & Machine Learnings** completed while learning from **Apna College**.  
+This repository contains my **AI & Machine Learning** completed while learning from **Apna College**.  
 The goal of this repository is to document my learning journey, practice core ML concepts, and build a strong foundation through hands-on assignment and projects.
 
 ---
 
 ## 📌 Course Source
 - **Platform:** Apna College
-- - **Track:** Artificial Intelligence & Machine Learning
+- **Track:** Artificial Intelligence & Machine Learning
 
 ---
 
@@ -26,6 +26,20 @@ The assignments and projects in this repository cover topics such as:
   - R² Score  
   - Accuracy, Precision 
 - Feature Scaling   
+
+---
+
+📁 Prime-Batch-Apna-College
+│
+├── 📁 Assignments and Tasks
+│ ├── Data Visualization (Matplotlib,Seaborn).ipynb
+│ ├── HomeVista house price prediction.ipynb
+│ └── Web_Scraping_Activity.ipynb
+│
+├── 📁 Datasets
+│ ├── HousePricePrediction.csv
+│
+└── README.md
 
 ---
 
