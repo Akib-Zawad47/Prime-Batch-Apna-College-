@@ -28,7 +28,7 @@ The assignments and projects in this repository cover topics such as:
 - Feature Scaling   
 
 ---
-
+```
 📁 Prime-Batch-Apna-College
 │
 ├── 📁 Assignments and Tasks
@@ -40,6 +40,7 @@ The assignments and projects in this repository cover topics such as:
 │ ├── HousePricePrediction.csv
 │
 └── README.md
+```
 
 ---
 
