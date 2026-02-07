@@ -33,11 +33,13 @@ The assignments and projects in this repository cover topics such as:
 │
 ├── 📁 Assignments and Tasks
 │ ├── Data Visualization (Matplotlib,Seaborn).ipynb
+│ ├── Employee Turnover.ipynb
 │ ├── HomeVista house price prediction.ipynb
 │ └── Web_Scraping_Activity.ipynb
 │
 ├── 📁 Datasets
 │ ├── HousePricePrediction.csv
+│ └── employee_turnover.csv
 │
 └── README.md
 ```
