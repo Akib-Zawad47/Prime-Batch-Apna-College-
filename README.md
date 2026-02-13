@@ -35,6 +35,7 @@ The assignments and projects in this repository cover topics such as:
 │ ├── Data Visualization (Matplotlib,Seaborn).ipynb
 │ ├── Employee Turnover.ipynb
 │ ├── HomeVista house price prediction.ipynb
+│ ├── Iris Flower Classification Assignment.ipynb
 │ └── Web_Scraping_Activity.ipynb
 │
 ├── 📁 Datasets
@@ -56,6 +57,15 @@ The assignments and projects in this repository cover topics such as:
 - Scikit-learn  
 - Jupyter Notebook  
 
+---
+
+## 🛣️ Algorithms
+- Linear Regression  
+- Lassos Regression  
+- Logistic Regression  
+- Naive Bayes  
+- KNN (K-nearest Neighbours)
+  
 ---
 
 ## 🎯 Purpose of This Repository
