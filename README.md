@@ -18,14 +18,27 @@ The assignments and projects in this repository cover topics such as:
 - Data Cleaning & Preprocessing  
 - Data Visualization (Matplotlib, Seaborn)
 - Web Scraping
-  - Beautifulsoup
+  - BeautifulSoup
 - Supervised Learning  
-  - Linear Regression  
+  - Linear Regression
+  - Logistic Regression
+  - Naive Bayes 
+  - K-Nearest Neighbors (KNN)
+  - Random Forest
+  - Gradient Boosting
+  - Ensemble Learning
+    - Voting
+    -  Bagging
+    -  Boosting
 - Model Evaluation  
   - Train-Test Split  
   - R² Score  
-  - Accuracy, Precision 
-- Feature Scaling   
+  - Accuracy, Precision, Recall, F1-score
+  - Cross Validation
+  - Confusion Matrix
+  - GridSearchCV
+- Feature Engineering
+  - StandardScaler      
 
 ---
 ```
@@ -36,11 +49,13 @@ The assignments and projects in this repository cover topics such as:
 │ ├── Employee Turnover.ipynb
 │ ├── HomeVista house price prediction.ipynb
 │ ├── Iris Flower Classification Assignment.ipynb
+│ ├── NovaGen Research Labs.ipynb
 │ └── Web_Scraping_Activity.ipynb
 │
 ├── 📁 Datasets
 │ ├── HousePricePrediction.csv
-│ └── employee_turnover.csv
+│ ├── employee_turnover.csv
+│ └── novagen_dataset.csv
 │
 └── README.md
 ```
@@ -61,10 +76,13 @@ The assignments and projects in this repository cover topics such as:
 
 ## 🛣️ Algorithms
 - Linear Regression  
-- Lassos Regression  
+- Lasso Regression  
 - Logistic Regression  
 - Naive Bayes  
 - KNN (K-nearest Neighbours)
+- Random Forest
+- Gradient Boosting
+- Voting Classifier
   
 ---
 
